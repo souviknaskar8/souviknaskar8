@@ -7,11 +7,11 @@
 </p>
 
 # Hi there 👋, I'm Souvik Naskar 
-
+<p align="left" >
 🎓 B.Tech Student                                                                 <p align="right"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"></P>                                                                                    </p> 
-<p align="left" > 🤖 Aspiring AI/ML Engineer  </p>
+ 🤖 Aspiring AI/ML Engineer 
 📍 India                                                                                                                         
-
+ </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue">
