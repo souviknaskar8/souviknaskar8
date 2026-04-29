@@ -1,6 +1,15 @@
+<h1 align="center">Hi 👋, I'm Souvik Naskar</h1>
 
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome&fontSize=40)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Souvik%20Naskar&fontSize=40)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Future+Engineer;Building+Projects;Always+Learning">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-blue">
+  <img src="https://img.shields.io/badge/AI-ML-green">
+</p>
 
 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
