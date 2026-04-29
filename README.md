@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souvik Naskar</h1>
+
 
 
 <p align="center">
@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0FF7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Souvik+Naskar;Aspiring+AI%2FML+Engineer;Learning+Python+%26+ML;Building+Real+Projects+projetcs;Open+to+Internships+%F0%9F%9A%80" />
 </p>
 
-
+<h1>Hi 👋, I'm Souvik Naskar</h1>
 🎓 B.Tech Student  
 🤖 Aspiring AI/ML Engineer  
 📍 India  
