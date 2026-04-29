@@ -8,8 +8,8 @@
 
 # Hi there 👋, I'm Souvik Naskar 
 
-🎓 B.Tech Student                                                                  <p align="right"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"></P>                                                                                    </p> 
-🤖 Aspiring AI/ML Engineer  
+🎓 B.Tech Student                                                                 <p align="right"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"></P>                                                                                    </p> 
+<p align="left" > 🤖 Aspiring AI/ML Engineer  </p>
 📍 India                                                                                                                         
 
 
