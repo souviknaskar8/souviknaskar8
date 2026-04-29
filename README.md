@@ -75,9 +75,6 @@ Pandas · Spark · PostgreSQL · Pinecone · Weaviate · Elasticsearch
 
 ---
 
-> “The best AI systems are not just trained — they’re engineered.”  
-
-⭐ If you like my projects, consider giving them a star!
 
 
 
@@ -154,6 +151,10 @@ Pandas · Spark · PostgreSQL · Pinecone · Weaviate · Elasticsearch
 - GitHub: https://github.com/souviknaskar8
 
 ---
+> “The best AI systems are not just trained — they’re engineered.”  
+
+⭐ If you like my projects, consider giving them a star!
+
 
 ⭐ *“Learning step by step and building my future in AI/ML”*
 ---
