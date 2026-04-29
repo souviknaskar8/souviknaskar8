@@ -11,8 +11,7 @@
 ---
 
 ## 🚀 About Me
-🚀 Aspiring AI/ML Engineer passionate about learning and building intelligent systems
-🚀 **AI/ML Engineer** passionate about building scalable  
+🚀 Aspiring AI/ML Engineer passionate about learning and building intelligent systems & passionate about building scalable  
 🧠 I love working on projects that blend **data, intelligence, and engineering** to solve complex problems.
 
 - 🌱 Currently learning **Python, Machine Learning & Data Structures**
