@@ -42,13 +42,11 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souviknaskar8&show_icons=true&theme=tokyonight)
 
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souviknaskar8&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souviknaskar8&layout=compact&theme=tokyonight)
 
 ---
 
