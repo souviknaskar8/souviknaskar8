@@ -9,9 +9,7 @@
 # Hi there 👋, I'm Souvik Naskar 
 
  🎓 B.Tech Student  
- 
  🤖 Aspiring AI/ML Engineer
- 
  📍 India                                                                                                                         
  
 
