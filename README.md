@@ -97,9 +97,9 @@
 
 > “The best AI systems are not just trained — they’re engineered.”  
 
-⭐ If you like my projects, consider giving them a star!
-
 *“Learning step by step and building my future in AI/ML”*
+
+⭐ If you like my projects, consider giving them a star!
 ---
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=souviknaskar8&color=blueviolet)
