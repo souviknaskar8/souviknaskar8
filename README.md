@@ -1,16 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background: #111;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.text {
+  font-size: 40px;
+}
+
+.change {
+  color: #c084fc;
+  transition: opacity 0.5s ease-in-out;
+}
+</style>
+</head>
+
+<body>
 
 <div class="text">
-  I am a <span id="typed"></span>
+  I am a <span id="changing-text" class="change">Photographer</span>
 </div>
 
 <script>
-var typed = new Typed("#typed", {
-  strings: ["Photographer", "Freelancer", "YouTuber", "AI Developer"],
-  typeSpeed: 60,
-  backSpeed: 40,
-  loop: true
-});
+const words = ["Photographer", "Freelancer", "YouTuber", "Developer"];
+let i = 0;
+
+setInterval(() => {
+  const el = document.getElementById("changing-text");
+  
+  el.style.opacity = 0;
+
+  setTimeout(() => {
+    i = (i + 1) % words.length;
+    el.textContent = words[i];
+    el.style.opacity = 1;
+  }, 500);
+
+}, 2000);
 </script>
+
+</body>
+</html>
 
  <P  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
