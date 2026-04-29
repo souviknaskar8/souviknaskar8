@@ -3,18 +3,6 @@
 </p>
 ---
 
-## 👩‍💻 About Me
-
-🚀 **AI/ML Engineer** passionate about building scalable, production-grade **machine learning** and **generative AI** systems.  
-🧠 I love working on projects that blend **data, intelligence, and engineering** to solve complex problems.
-
-- 🔭 Currently exploring **Agentic AI** & **RAG architectures**
-- ☁️ Experience across **AWS**, **Azure**, and **GCP**
-- ⚙️ Building and deploying **LLM applications** and **MLOps pipelines**
-- 📈 Contributor to **open-source AI frameworks**
-- 🎓 Lifelong learner in **deep learning** and **system design**
-
----
 
 ## 🧠 Tech Stack
 
