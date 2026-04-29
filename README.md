@@ -42,12 +42,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/souviknaskar8
 
 ---
 
