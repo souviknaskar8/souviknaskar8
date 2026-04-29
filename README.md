@@ -73,10 +73,10 @@ align="center">
 ---
 
 ## 📂 Projects
-- 🔹 
-<p align="center">
+
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...;Coming+Soon...">
-</p>
+ </p>
 
 
 ---
