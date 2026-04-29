@@ -1,16 +1,54 @@
 ## Hi there 👋
+# Hi there 👋, I'm Souvik Naskar
 
-<!--
-**souviknaskar8/souviknaskar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+🤖 Aspiring AI/ML Engineer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Python, Machine Learning & Data Structures**
+- 💡 Interested in **Artificial Intelligence & Problem Solving**
+- 🛠️ Building beginner projects in **AI/ML**
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 🧠 Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+## 📌 Current Goals
+- ✔ Improve problem-solving skills  
+- ✔ Build strong AI/ML projects  
+- ✔ Learn Deep Learning basics  
+
+---
+
+## 📂 Projects
+- 🔹 Coming Soon... (Working on AI/ML projects 🚀)
+
+---
+
+## 📊 GitHub Stats
+
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ *“Learning step by step and building my future in AI/ML”*
