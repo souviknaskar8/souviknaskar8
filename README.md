@@ -1,9 +1,9 @@
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue">
   <img src="https://img.shields.io/badge/AI-ML-green">
 </p>
 
- <P>
+ <P  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
 </p>
 
