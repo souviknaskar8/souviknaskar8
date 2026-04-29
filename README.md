@@ -105,10 +105,19 @@ Pandas · Spark · PostgreSQL · Pinecone · Weaviate · Elasticsearch
 ---
 
 ## 🚀 About Me
+🚀 **AI/ML Engineer** passionate about building scalable, production-grade **machine learning** and **generative AI** systems.  
+🧠 I love working on projects that blend **data, intelligence, and engineering** to solve complex problems.
+
 - 🌱 Currently learning **Python, Machine Learning & Data Structures**
 - 💡 Interested in **Artificial Intelligence & Problem Solving**
 - 🛠️ Building beginner projects in **AI/ML**
 - 🤝 Open to collaboration and learning opportunities
+- 🔭 Currently exploring **Agentic AI** & **RAG architectures**
+- ☁️ Experience across **AWS**, **Azure**, and **GCP**
+- ⚙️ Building and deploying **LLM applications** and **MLOps pipelines**
+- 📈 Contributor to **open-source AI frameworks**
+- 🎓 Lifelong learner in **deep learning** and **system design**
+
 
 ---
 ## 🧠 Skills & Tools
