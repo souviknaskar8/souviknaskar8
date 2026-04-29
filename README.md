@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...;Welcome+to+My+Profile">
+</p>
+
+
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Souvik%20Naskar&fontSize=40)
 
 align="center">
