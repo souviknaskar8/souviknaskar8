@@ -1,4 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 
 <div class="text">
   I am a <span id="typed"></span>
