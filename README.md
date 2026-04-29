@@ -91,6 +91,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/souviknaskar8
+- Linkedin: www.linkedin.com/in/souvik-naskar8
 
 ---
 
