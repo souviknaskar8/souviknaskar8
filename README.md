@@ -24,6 +24,7 @@
 🎯 Goal: To become a skilled AI/ML Engineer by building real-world projects
 
 ---
+
 ## 🧠 Skills & Tools
 
 <p align="left">
@@ -40,13 +41,8 @@
 ## 📌 Current Goals
 - ✔ Improve problem-solving skills  
 - ✔ Build strong AI/ML projects  
-- ✔ Learn Deep Learning basics  
-
----
-
-## 📂 Projects
-- 🔹 Coming Soon... (Working on AI/ML projects 🚀)
-
+- ✔ Learn Deep Learning basics
+- 
 ---
 
 ## 📊 GitHub Analytics
@@ -61,26 +57,26 @@
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=souviknaskar8&theme=tokyo-night)
 
 ---
+
+## 📂 Projects
+- 🔹 Coming Soon... (Working on AI/ML projects 🚀)
+
+---
+
 ## 📫 Connect with Me
 - GitHub: https://github.com/souviknaskar8
----
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio.dev)
-
 
 ---
+
 > “The best AI systems are not just trained — they’re engineered.”  
 
 ⭐ If you like my projects, consider giving them a star!
-
 
 ⭐ *“Learning step by step and building my future in AI/ML”*
 ---
