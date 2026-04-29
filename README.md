@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-Developer-blue">
   <img src="https://img.shields.io/badge/AI-ML-green">
 </p>
