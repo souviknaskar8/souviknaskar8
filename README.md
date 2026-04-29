@@ -1,4 +1,6 @@
-<p align="center">
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Souvik%20Naskar&fontSize=40)
+
+align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
 </p>
 
