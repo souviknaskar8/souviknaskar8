@@ -11,19 +11,17 @@
 ---
 
 ## 🚀 About Me
-🚀 **AI/ML Engineer** passionate about building scalable, production-grade **machine learning** and **generative AI** systems.  
+🚀 Aspiring AI/ML Engineer passionate about learning and building intelligent systems
+🚀 **AI/ML Engineer** passionate about building scalable  
 🧠 I love working on projects that blend **data, intelligence, and engineering** to solve complex problems.
 
 - 🌱 Currently learning **Python, Machine Learning & Data Structures**
 - 💡 Interested in **Artificial Intelligence & Problem Solving**
 - 🛠️ Building beginner projects in **AI/ML**
 - 🤝 Open to collaboration and learning opportunities
-- 🔭 Currently exploring **Agentic AI** & **RAG architectures**
-- ☁️ Experience across **AWS**, **Azure**, and **GCP**
-- ⚙️ Building and deploying **LLM applications** and **MLOps pipelines**
-- 📈 Contributor to **open-source AI frameworks**
-- 🎓 Lifelong learner in **deep learning** and **system design**
+- 📚 Exploring basic concepts of Machine Learning and AI
 
+🎯 Goal: To become a skilled AI/ML Engineer by building real-world projects
 
 ---
 ## 🧠 Skills & Tools
