@@ -2,9 +2,6 @@
   Welcome to My GitHub
 </h1>
 
-<h2 align="center">
-  👨‍💻 AI | 🤖 ML | 🚀 Future Engineer
-</h2>
 
  <P  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
