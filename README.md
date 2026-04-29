@@ -79,6 +79,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Coming+Soon...">
  </p>
 
+  <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"></P>          
+
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...">
