@@ -52,7 +52,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
 
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=souviknaskar8&theme=tokyo-night)
+
+---
 ## 📫 Connect with Me
 - GitHub: https://github.com/souviknaskar8
 
