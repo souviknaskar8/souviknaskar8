@@ -78,6 +78,7 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Coming+Soon...;Working+On+AI/ML+Projects">
   </p>
+  
 
   <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"></P>          
 
