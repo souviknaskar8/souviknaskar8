@@ -1,4 +1,17 @@
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 
+<div class="text">
+  I am a <span id="typed"></span>
+</div>
+
+<script>
+var typed = new Typed("#typed", {
+  strings: ["Photographer", "Freelancer", "YouTuber", "AI Developer"],
+  typeSpeed: 60,
+  backSpeed: 40,
+  loop: true
+});
+</script>
 
  <P  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
