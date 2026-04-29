@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0FF7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Souvik+Naskar;Aspiring+AI%2FML+Engineer;Learning+Python+%26+ML;Building+Real+Projects+projetcs;Open+to+Internships+%F0%9F%9A%80" />
 </p>
 
