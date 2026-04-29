@@ -11,11 +11,11 @@
 
 # Hi there 👋, I'm Souvik Naskar 
 
-🎓 B.Tech Student  
-🤖 Aspiring AI/ML Engineer                 <p align="right">
-                                           <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-                                            </p>
-📍 India  
+🎓 B.Tech Student                                                                  <p align="right">
+🤖 Aspiring AI/ML Engineer  
+📍 India                                                                           <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+                                                                                      </p>                                                
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue">
