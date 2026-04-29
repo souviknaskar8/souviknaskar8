@@ -42,7 +42,7 @@
 - ✔ Improve problem-solving skills  
 - ✔ Build strong AI/ML projects  
 - ✔ Learn Deep Learning basics
-- 
+  
 ---
 
 ## 📊 GitHub Analytics
