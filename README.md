@@ -73,9 +73,9 @@ align="center">
 ---
 
 ## 📂 Projects
-- 🔹 Coming Soon... (Working on AI/ML projects 🚀)
+- 🔹 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...;Coming Soon... (Working on AI/ML projects 🚀)">
 </p>
 
 
