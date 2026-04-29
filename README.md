@@ -97,7 +97,7 @@
 
 > “The best AI systems are not just trained — they’re engineered.”  
 
-  *“Learning step by step and building my future in AI/ML”*
+   *“Learning step by step and building my future in AI/ML”*
 
 ⭐ If you like my projects, consider giving them a star!
 ---
