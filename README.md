@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=800&color=FF61D2&center=true&vCenter=true&width=700&lines=I+am+a+Photographer;I+am+a+Freelancer;I+am+a+YouTuber">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&pause=800&color=FF61D2&center=true&vCenter=true&width=700&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
 </p>
 
 
  <P  align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hello+I'm+Souvik+Naskar;AI+%26+ML+Enthusiast;Building+Cool+Projects;Learning+Everyday">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=">
 </p>
 
 
