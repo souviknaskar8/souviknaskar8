@@ -1,7 +1,6 @@
- <div align="center">
-  <img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&width=480&lines=Hi+There!+👋;I)'m+a+Machine+Learning+Engineer;Building+Intelligent+Systems+with+AI;Turning+Models+into+Products!" alt="Typing SVG" />
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0FF7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Souvik+Naskar;Aspiring+AI%2FML+Engineer;Learning+Python+%26+ML;Building+Real+Projects;Open+to+Internships+%F0%9F%9A%80" />
+</p>
 ---
 
 ## 👩‍💻 About Me
