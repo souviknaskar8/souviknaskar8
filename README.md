@@ -63,3 +63,6 @@
 ---
 
 ⭐ *“Learning step by step and building my future in AI/ML”*
+---
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=souviknaskar8&color=blueviolet)
