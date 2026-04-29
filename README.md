@@ -67,11 +67,6 @@ Pandas · Spark · PostgreSQL · Pinecone · Weaviate · Elasticsearch
 
 ---
 
-## 🤝 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio.dev)
 
 ---
 
@@ -149,6 +144,13 @@ Pandas · Spark · PostgreSQL · Pinecone · Weaviate · Elasticsearch
 ---
 ## 📫 Connect with Me
 - GitHub: https://github.com/souviknaskar8
+---
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio.dev)
+
 
 ---
 > “The best AI systems are not just trained — they’re engineered.”  
