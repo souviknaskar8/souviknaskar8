@@ -86,7 +86,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Initializing...;Loading+AI+Models...">
  </p>
 
+## 🚀 Featured Projects
 
+### 📰 AI Fake News Detector
+- Detects fake and misleading news using Gemini 2.5 Flash API.
+- Supports text and URL-based analysis.
+- Built with Python, Streamlit, HTML, CSS, BeautifulSoup4.
+- GitHub: https://github.com/souviknaskar8/AI-Fake-News-Detector
 ---
 
 ## 📫 Connect with Me
